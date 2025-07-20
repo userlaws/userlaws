@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is laws and I live in NYC and I want to learn to be a Full Stack Dev</h2>
+<h2 align="left">Hi 👋! My name is Laws, I live in NYC, and I’m learning to become a software engineer.</h2>
 
 ###
 
